@@ -1,4 +1,3 @@
-![logo](https://github.com/BIMAL3726/BIMAL3726/blob/main/CSE.jpeg)
 <h1 align="center">Hi 👋, I'm Bimal Maity</h1>
 <h3 align="center">Btech in Information Technology</h3>
 
