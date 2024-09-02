@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BIMAL3726](https://github.com/BIMAL3726)
 
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,C,C++,JAVA,PYTHON,MYSQL**
+
 - 📫 How to reach me **bimalmaity8440@gmail.com**
 
 - ⚡ Fun fact **Funny boy**
