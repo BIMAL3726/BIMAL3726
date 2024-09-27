@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bimal Maity</h1>
 <h3 align="center">Btech in Information Technology</h3>
+<h3>View all my projects on laptop or desktop</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimal3726&label=Profile%20views&color=0e75b6&style=flat" alt="bimal3726" /> </p>
 
